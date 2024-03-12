@@ -15,32 +15,32 @@ Hub IoT. A visualização deverá ser realizada através de aplicativos locais c
 do Serviço de Aplicativo do Azure.
 
 
-
+## Adicionando  grupo de consumidores ao hub IoT
 ![image](https://github.com/RuanF7/m4n5/blob/main/Sem%20t%C3%ADtulo.png)
 
-
+## Obtendo uma cadeia de conexão de serviço para hub IoT
 ![image](https://github.com/RuanF7/m4n5/blob/main/Captura%20de%20tela%202024-03-12%20101220.png)
 
-
+## Definindo variáveis de ambiente
 ![image](https://github.com/RuanF7/m4n5/blob/main/Captura%20de%20tela%202024-03-12%20102658.png)
 
-
+## Visualizando aplicação no localhost:3000
 ![image](https://github.com/RuanF7/m4n5/blob/main/Captura%20de%20tela%202024-03-12%20102735.png)
 
-
+## Criando plano de serviço
 ![image](https://github.com/RuanF7/m4n5/blob/main/Captura%20de%20tela%202024-03-12%20103824.png)
 
-
+## Criando aplicativo web
 ![image](https://github.com/RuanF7/m4n5/blob/main/Captura%20de%20tela%202024-03-12%20105431.png)
 
-
+## Adicionando configurações do aplicativo
 ![image](https://github.com/RuanF7/m4n5/blob/main/Captura%20de%20tela%202024-03-12%20105952.png)
 
-
+## Ativando protocolo web-socket
 ![image](https://github.com/RuanF7/m4n5/blob/main/Captura%20de%20tela%202024-03-12%20110218.png)
 
-
+## Rodando aplicação
 ![image](https://github.com/RuanF7/m4n5/blob/main/Captura%20de%20tela%202024-03-12%20110451.png)
 
-
+## Visualizando aplicação na minha página web: https://webappestacio.azurewebsites.net/
 ![image](https://github.com/RuanF7/m4n5/blob/main/Captura%20de%20tela%202024-03-12%20110508.png)
